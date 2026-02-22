@@ -1,0 +1,1104 @@
+{
+  "timestamp": "20260220_233330",
+  "total_emails": 136,
+  "timestamp_full": "2026-02-20T23:33:30.551604",
+  "mcp_server": "Email MCP Server",
+  "mcp_tool": "send_email",
+  "emails": [
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: Add Dark Mode Toggle Feature",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: Add Dark Mode Toggle Feature",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: Add Dark Mode Toggle Feature",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: Add Dark Mode Toggle Feature",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: Add Dark Mode Toggle Feature",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: Add Dark Mode Toggle Feature",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan: Actionplan_Add_Dark_Mode_Toggle_Feature_20260218_223231",
+      "action_count": 20,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: content",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: content",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: content",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: content",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: content",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: content",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan: Actionplan_Content_20260218_211843",
+      "action_count": 20,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: FileSystem Watcher - Complete Solution",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: FileSystem Watcher - Complete Solution",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: FileSystem Watcher - Complete Solution",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: FileSystem Watcher - Complete Solution",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: FileSystem Watcher - Complete Solution",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: FileSystem Watcher - Complete Solution",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan: Actionplan_Filesystem_Watcher___Complete__20260218_211843",
+      "action_count": 20,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: my_test",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: my_test",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: my_test",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: my_test",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: my_test",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: my_test",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan: Actionplan_My_Test_20260218_211843",
+      "action_count": 20,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: Send Customer Notification Email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: Send Customer Notification Email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: Send Customer Notification Email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: Send Customer Notification Email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: Send Customer Notification Email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: ActionPlan: Send Customer Notification Email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan: Actionplan_Send_Customer_Notification_Ema_20260218_223547",
+      "action_count": 20,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan: Security alert",
+      "action_count": 24,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan: Re: Monitor replacement request",
+      "action_count": 24,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan: Re: Monitor replacement request",
+      "action_count": 24,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan: Request for password reset",
+      "action_count": 24,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan: Simplify and Strengthen Protection",
+      "action_count": 24,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan: Reminder: Please share your feedback with Microsoft",
+      "action_count": 24,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan: Learn more about our updated Terms of Service",
+      "action_count": 24,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan: Your Office 365 A1 for students subscription is renewing soon",
+      "action_count": 24,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan: [Product Update] Automatic enablement of new OpenTelemetry ingestion API",
+      "action_count": 24,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan: OpenAI API - API Key Disabled",
+      "action_count": 24,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: Execution Guide: Send Customer Notification Email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: Execution Guide: Send Customer Notification Email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: Execution Guide: Send Customer Notification Email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: Execution Guide: Send Customer Notification Email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: Execution Guide: Send Customer Notification Email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: Execution Guide: Send Customer Notification Email",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan: Execution_Guide_Send_Customer_Notification_Ema_20260218_223547",
+      "action_count": 20,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan - file_drop_task",
+      "action_count": 5,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: file_drop",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: file_drop",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: file_drop",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: file_drop",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: file_drop",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: file_drop",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan: Meta_My_Test",
+      "action_count": 22,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: file_drop",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: file_drop",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: file_drop",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: file_drop",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: file_drop",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: type: file_drop",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan: Meta_Newcontent",
+      "action_count": 22,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan - payment_approval_request",
+      "action_count": 5,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: id: payment_001",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: id: payment_001",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: id: payment_001",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: id: payment_001",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: id: payment_001",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Reasoning Plan: id: payment_001",
+      "action_count": 61,
+      "status": "PENDING",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan: Client Payment Processing",
+      "action_count": 20,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    },
+    {
+      "recipient": "ai-employee@example.com",
+      "subject": "Action Summary: Action Plan - simple_documentation_task",
+      "action_count": 5,
+      "status": "UNKNOWN",
+      "mcp_status": "READY_TO_CALL",
+      "mcp_tool": "send_email"
+    }
+  ],
+  "instructions": [
+    "1. Start Email MCP Server: npm start (in email-mcp-server/)",
+    "2. Each email is ready to send via send_email MCP tool",
+    "3. Recipient: can be customized per plan",
+    "4. HTML content generated automatically",
+    "5. Track all emails in this log file"
+  ]
+}

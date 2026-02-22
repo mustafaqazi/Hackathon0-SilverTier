@@ -1,0 +1,27 @@
+{
+  "name": "email-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP Server for sending emails via Gmail using nodemailer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "mcp",
+    "email",
+    "nodemailer",
+    "gmail"
+  ],
+  "author": "AI Employee",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "nodemailer": "^6.9.7",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "node": ">=16.0.0"
+  }
+}

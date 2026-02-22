@@ -1,0 +1,288 @@
+================================================================================
+                    GMAIL-SEND SKILL - QUICK START
+================================================================================
+
+STATUS: Ready to Use
+PLATFORM: Windows
+SKILL LOCATION: .claude/skills/gmail-send/
+
+================================================================================
+STEP 1: GET GMAIL APP PASSWORD (5 minutes)
+================================================================================
+
+Go to: https://myaccount.google.com/security
+
+1. Click "Security" in left sidebar
+2. Find "2-Step Verification"
+   - If not enabled: Enable it now
+3. Go back to Security page
+4. Find "App passwords"
+5. Select:
+   - App: Mail
+   - Device: Windows Computer
+6. Copy the 16-character password
+
+DO NOT use your regular Gmail password!
+The app password looks like: xxxx xxxx xxxx xxxx
+
+================================================================================
+STEP 2: SET CREDENTIALS (2 minutes)
+================================================================================
+
+Option A: Run Setup Script
+   Double-click: AI_Employee\SETUP_EMAIL_CREDENTIALS.bat
+   Follow prompts to enter email and password
+
+Option B: Manual Setup (Windows Command Prompt)
+   setx EMAIL_ADDRESS "your.email@gmail.com"
+   setx EMAIL_PASSWORD "xxxx xxxx xxxx xxxx"
+
+   Then close and reopen Command Prompt
+
+Option C: Manual Setup (Windows PowerShell)
+   [Environment]::SetEnvironmentVariable("EMAIL_ADDRESS", "your.email@gmail.com", "User")
+   [Environment]::SetEnvironmentVariable("EMAIL_PASSWORD", "xxxx xxxx xxxx xxxx", "User")
+
+================================================================================
+STEP 3: TEST THE SKILL (1 minute)
+================================================================================
+
+Run this command:
+
+   python .claude/skills/gmail-send/scripts/send_email.py ^
+     --to your.email@gmail.com ^
+     --subject "Test Email" ^
+     --body "This is a test email"
+
+Expected Output (Success):
+   EMAIL_SENT: your.email@gmail.com | Subject: Test Email
+
+Expected Output (Error):
+   EMAIL_ERROR: Authentication failed
+
+================================================================================
+STEP 4: SEND REAL EMAILS
+================================================================================
+
+Now you can send emails from your AI Employee tasks!
+
+Basic Command:
+   python .claude/skills/gmail-send/scripts/send_email.py ^
+     --to recipient@example.com ^
+     --subject "Email Subject" ^
+     --body "Email body text"
+
+With CC:
+   python .claude/skills/gmail-send/scripts/send_email.py ^
+     --to recipient@example.com ^
+     --cc cc@example.com ^
+     --subject "Subject" ^
+     --body "Body"
+
+Multiple Recipients (send separately):
+   python .claude/skills/gmail-send/scripts/send_email.py --to user1@example.com --subject "Hi" --body "Message"
+   python .claude/skills/gmail-send/scripts/send_email.py --to user2@example.com --subject "Hi" --body "Message"
+   python .claude/skills/gmail-send/scripts/send_email.py --to user3@example.com --subject "Hi" --body "Message"
+
+================================================================================
+PRACTICAL EXAMPLES
+================================================================================
+
+Example 1: Send to Customer
+   python .claude/skills/gmail-send/scripts/send_email.py ^
+     --to customer@example.com ^
+     --subject "Your Order Confirmation" ^
+     --body "Thank you for your order. Your order number is: 12345"
+
+Example 2: Team Notification
+   python .claude/skills/gmail-send/scripts/send_email.py ^
+     --to team@company.com ^
+     --subject "Project Update" ^
+     --body "Team, the project is 50 percent complete. Next milestone: Friday."
+
+Example 3: Important Announcement
+   python .claude/skills/gmail-send/scripts/send_email.py ^
+     --to users@company.com ^
+     --subject "New Feature Available" ^
+     --body "We're excited to announce Dark Mode is now available. Go to Settings to enable it."
+
+Example 4: Multi-line Email
+   python .claude/skills/gmail-send/scripts/send_email.py ^
+     --to user@example.com ^
+     --subject "Status Report" ^
+     --body "Hi,
+
+Here's this week's status:
+
+Completed:
+- Feature A
+- Feature B
+
+In Progress:
+- Feature C
+
+Next Week:
+- Feature D
+
+Thanks!"
+
+================================================================================
+VERIFY SUCCESS
+================================================================================
+
+Check Recipients' Inbox:
+   1. Look in recipient's inbox (not spam!)
+   2. Subject should match what you sent
+   3. Body should contain your message
+   4. Sender should be your email address
+
+If Email Doesn't Appear:
+   1. Wait a few minutes (mail delay is normal)
+   2. Check spam folder
+   3. Verify recipient email is correct
+   4. Check skill output for errors
+
+View Skill Logs:
+   type .claude/skills/gmail-send/scripts/logs/actions.log
+
+================================================================================
+INTEGRATION WITH AI EMPLOYEE
+================================================================================
+
+The Email Sending Works With:
+
+1. SCHEDULER
+   - Add email task to vault/Inbox/
+   - Scheduler detects it
+   - Task planner creates action plan
+   - Execute using this guide
+
+2. TASK PLANNER
+   - Creates plan for email tasks
+   - Identifies recipients
+   - Documents success criteria
+   - Generates execution steps
+
+3. HUMAN APPROVAL
+   - Request approval before sending
+   - Safety gate for mass emails
+   - Ensures proper authorization
+
+4. VAULT FILE MANAGER
+   - Track email tasks
+   - Move from Inbox to Done
+   - Maintain audit trail
+
+Complete Workflow:
+   Create Task → Plan → Approve → Send Email → Verify → Archive
+
+================================================================================
+TROUBLESHOOTING
+================================================================================
+
+ERROR: "EMAIL_ERROR: Authentication failed"
+   Fix:
+   - Check EMAIL_ADDRESS is correct
+   - Verify using App Password (not regular password)
+   - Enable 2-Step Verification on Gmail account
+   - Verify credentials: echo %EMAIL_ADDRESS%
+
+ERROR: "EMAIL_ERROR: Connection refused"
+   Fix:
+   - Check internet connection
+   - Check firewall allows port 587
+   - Try different SMTP settings
+   - Verify SMTP server is accessible
+
+ERROR: "Parameter required: --to, --subject, --body"
+   Fix: Include all three parameters:
+   - --to recipient@example.com (REQUIRED)
+   - --subject "Your Subject" (REQUIRED)
+   - --body "Email text" (REQUIRED)
+   - --cc optional@example.com (OPTIONAL)
+
+ERROR: Email not appearing in inbox
+   Fix:
+   - Check spam/junk folder
+   - Wait a few minutes
+   - Verify recipient email address
+   - Check sender not on blocklist
+
+================================================================================
+ADVANCED: BATCH EMAIL SCRIPT
+================================================================================
+
+Create file: send_batch_emails.bat
+
+Content:
+   @echo off
+   setlocal enabledelayedexpansion
+
+   REM Define recipients
+   set RECIPIENTS=user1@example.com user2@example.com user3@example.com
+   set SUBJECT=Important Announcement
+   set BODY=Dear Customer, Important update text here...
+
+   REM Send to each recipient
+   for %%R in (%RECIPIENTS%) do (
+       echo Sending to %%R...
+       python .claude/skills/gmail-send/scripts/send_email.py ^
+         --to %%R ^
+         --subject "%SUBJECT%" ^
+         --body "%BODY%"
+   )
+
+   echo All emails sent!
+
+Run it:
+   send_batch_emails.bat
+
+================================================================================
+NEXT STEPS
+================================================================================
+
+1. Get Gmail App Password
+   → Go to https://myaccount.google.com/security
+
+2. Set Credentials
+   → Run SETUP_EMAIL_CREDENTIALS.bat or manually set
+
+3. Test with Your Email
+   → Send yourself a test email
+
+4. Try Sending Real Emails
+   → Use examples from this guide
+
+5. Integrate with Tasks
+   → Create email tasks in vault/Inbox/
+   → Scheduler will process them
+
+6. Automate
+   → Use with scheduler for campaigns
+
+================================================================================
+FULL DOCUMENTATION
+================================================================================
+
+For complete details, see:
+   AI_Employee/HOW_TO_USE_GMAIL_SEND_SKILL.md
+
+For skill details:
+   .claude/skills/gmail-send/SKILL.md
+
+For script options:
+   python .claude/skills/gmail-send/scripts/send_email.py --help
+
+================================================================================
+READY TO SEND EMAILS!
+================================================================================
+
+Your AI Employee gmail-send skill is ready to use.
+
+Follow the 4 steps above and you'll be sending professional emails
+in minutes!
+
+Status: READY FOR PRODUCTION
+Next: Get your Gmail App Password!
+
+================================================================================

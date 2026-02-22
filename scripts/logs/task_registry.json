@@ -1,0 +1,38 @@
+{
+  "content.md": {
+    "detected_at": "2026-02-18T21:18:43.495703",
+    "plan_file": "ActionPlan_content_20260218_211843.md",
+    "priority": "Medium",
+    "status": "planned"
+  },
+  "my_test.md": {
+    "detected_at": "2026-02-18T21:18:43.497080",
+    "plan_file": "ActionPlan_my_test_20260218_211843.md",
+    "priority": "Medium",
+    "status": "planned"
+  },
+  "WATCHER_README.md": {
+    "detected_at": "2026-02-18T21:18:43.500533",
+    "plan_file": "ActionPlan_filesystem_watcher___complete__20260218_211843.md",
+    "priority": "Medium",
+    "status": "planned"
+  },
+  "sample_feature_request.md": {
+    "detected_at": "2026-02-18T22:32:31.762134",
+    "plan_file": "ActionPlan_add_dark_mode_toggle_feature_20260218_223231.md",
+    "priority": "Medium",
+    "status": "planned"
+  },
+  "send_customer_notification_email.md": {
+    "detected_at": "2026-02-18T22:35:47.213995",
+    "plan_file": "ActionPlan_send_customer_notification_ema_20260218_223547.md",
+    "priority": "Medium",
+    "status": "planned"
+  },
+  "test_feature_task.md": {
+    "detected_at": "2026-02-22T16:03:53.160006",
+    "plan_file": "ActionPlan_test_feature__add_user_export__20260222_160353.md",
+    "priority": "Medium",
+    "status": "planned"
+  }
+}

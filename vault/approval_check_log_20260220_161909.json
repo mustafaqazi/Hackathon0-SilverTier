@@ -1,0 +1,76 @@
+{
+  "timestamp": "20260220_161909",
+  "timestamp_full": "2026-02-20T16:19:09.894634",
+  "approval_requests_created": 9,
+  "approved_items_found": 3,
+  "actions_triggered": [],
+  "summary": {
+    "pending_approval": 9,
+    "approved": 3,
+    "completed": 0,
+    "rejected": 0
+  },
+  "requests": [
+    {
+      "approval_id": "EMAIL_ai-employee_0_20260220_161909",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T16:19:09.867811"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_1_20260220_161909",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T16:19:09.868366"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_2_20260220_161909",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T16:19:09.868697"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_0_20260220_161909",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T16:19:09.880902"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_1_20260220_161909",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T16:19:09.881188"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_2_20260220_161909",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T16:19:09.881489"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_0_20260220_161909",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T16:19:09.892415"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_1_20260220_161909",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T16:19:09.892672"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_2_20260220_161909",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T16:19:09.892973"
+    }
+  ],
+  "next_steps": [
+    "1. Review pending approval requests in vault/Pending_Approval/",
+    "2. Verify details are correct",
+    "3. Create APPROVED file in vault/Approved/ to approve",
+    "4. ApprovalChecker will detect and trigger actions",
+    "5. Check vault/Completed/ for finished actions"
+  ]
+}

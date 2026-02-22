@@ -1,0 +1,4 @@
+# WhatsApp Watcher Dependencies
+# Install with: pip install -r requirements_whatsapp.txt
+
+playwright>=1.40.0

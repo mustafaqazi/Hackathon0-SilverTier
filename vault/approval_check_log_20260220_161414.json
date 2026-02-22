@@ -1,0 +1,58 @@
+{
+  "timestamp": "20260220_161414",
+  "timestamp_full": "2026-02-20T16:14:14.757196",
+  "approval_requests_created": 6,
+  "approved_items_found": 1,
+  "actions_triggered": [],
+  "summary": {
+    "pending_approval": 6,
+    "approved": 1,
+    "completed": 0,
+    "rejected": 0
+  },
+  "requests": [
+    {
+      "approval_id": "EMAIL_ai-employee_0_20260220_161414",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T16:14:14.752385"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_1_20260220_161414",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T16:14:14.753135"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_2_20260220_161414",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T16:14:14.753745"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_0_20260220_161414",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T16:14:14.754741"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_1_20260220_161414",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T16:14:14.755373"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_2_20260220_161414",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T16:14:14.755904"
+    }
+  ],
+  "next_steps": [
+    "1. Review pending approval requests in vault/Pending_Approval/",
+    "2. Verify details are correct",
+    "3. Create APPROVED file in vault/Approved/ to approve",
+    "4. ApprovalChecker will detect and trigger actions",
+    "5. Check vault/Completed/ for finished actions"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "content.md": {
+    "detected_at": "2026-02-18T20:57:30.975800",
+    "size_bytes": 0,
+    "status": "processed",
+    "processed_at": "2026-02-18T20:57:30.976413",
+    "result": "success"
+  },
+  "my_test.md": {
+    "detected_at": "2026-02-18T20:57:30.976953",
+    "size_bytes": 0,
+    "status": "processed",
+    "processed_at": "2026-02-18T20:57:30.977516",
+    "result": "success"
+  },
+  "WATCHER_README.md": {
+    "detected_at": "2026-02-18T20:57:30.978206",
+    "size_bytes": 8077,
+    "status": "processed",
+    "processed_at": "2026-02-18T20:57:30.978782",
+    "result": "success"
+  }
+}

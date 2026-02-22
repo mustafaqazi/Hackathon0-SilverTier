@@ -1,0 +1,126 @@
+2026-02-19 14:25:35 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:25:35 - WhatsAppWatcher - INFO - WhatsApp Watcher initialized
+2026-02-19 14:25:35 - WhatsAppWatcher - INFO - Vault root: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault
+2026-02-19 14:25:35 - WhatsAppWatcher - INFO - Session folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\whatsapp_session
+2026-02-19 14:25:35 - WhatsAppWatcher - INFO - Needs_Action folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\Needs_Action
+2026-02-19 14:25:35 - WhatsAppWatcher - INFO - Keywords to monitor: urgent, asap, invoice, payment, help, sales, quote
+2026-02-19 14:25:35 - WhatsAppWatcher - INFO - Loaded 0 previously processed messages
+2026-02-19 14:25:35 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:25:35 - WhatsAppWatcher - INFO - STARTING WHATSAPP WATCHER
+2026-02-19 14:25:35 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:25:35 - WhatsAppWatcher - INFO - Monitoring: WhatsApp Web unread chats
+2026-02-19 14:25:35 - WhatsAppWatcher - INFO - Check interval: 60 seconds
+2026-02-19 14:25:35 - WhatsAppWatcher - INFO - Keywords: urgent, asap, invoice, payment, help, sales, quote
+2026-02-19 14:25:35 - WhatsAppWatcher - INFO - Output folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\Needs_Action
+2026-02-19 14:25:35 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:25:35 - WhatsAppWatcher - INFO - Setting up Playwright browser...
+2026-02-19 14:25:35 - WhatsAppWatcher - INFO - ✓ Playwright started
+2026-02-19 14:25:36 - WhatsAppWatcher - INFO - ✓ Browser launched (headless mode)
+2026-02-19 14:25:36 - WhatsAppWatcher - INFO - ⚠ First run detected - QR code scan required
+2026-02-19 14:25:36 - WhatsAppWatcher - INFO -   Browser will open with QR code
+2026-02-19 14:25:36 - WhatsAppWatcher - INFO -   Scan with your phone to authenticate
+2026-02-19 14:25:36 - WhatsAppWatcher - INFO - ✓ Browser context and page initialized
+2026-02-19 14:25:36 - WhatsAppWatcher - INFO - Navigating to WhatsApp Web...
+2026-02-19 14:25:48 - WhatsAppWatcher - INFO - Waiting for QR code scan (first time)...
+2026-02-19 14:27:48 - WhatsAppWatcher - ERROR - Timeout waiting for WhatsApp to load
+2026-02-19 14:27:48 - WhatsAppWatcher - ERROR - Failed to navigate to WhatsApp Web
+2026-02-19 14:27:49 - WhatsAppWatcher - INFO - ✓ Browser closed
+2026-02-19 14:29:24 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:29:24 - WhatsAppWatcher - INFO - WhatsApp Watcher initialized
+2026-02-19 14:29:24 - WhatsAppWatcher - INFO - Vault root: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault
+2026-02-19 14:29:24 - WhatsAppWatcher - INFO - Session folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\whatsapp_session
+2026-02-19 14:29:24 - WhatsAppWatcher - INFO - Needs_Action folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\Needs_Action
+2026-02-19 14:29:24 - WhatsAppWatcher - INFO - Keywords to monitor: urgent, asap, invoice, payment, help, sales, quote
+2026-02-19 14:29:24 - WhatsAppWatcher - INFO - Loaded 0 previously processed messages
+2026-02-19 14:29:24 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:29:24 - WhatsAppWatcher - INFO - STARTING WHATSAPP WATCHER
+2026-02-19 14:29:24 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:29:24 - WhatsAppWatcher - INFO - Monitoring: WhatsApp Web unread chats
+2026-02-19 14:29:24 - WhatsAppWatcher - INFO - Check interval: 60 seconds
+2026-02-19 14:29:24 - WhatsAppWatcher - INFO - Keywords: urgent, asap, invoice, payment, help, sales, quote
+2026-02-19 14:29:24 - WhatsAppWatcher - INFO - Output folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\Needs_Action
+2026-02-19 14:29:24 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:29:24 - WhatsAppWatcher - INFO - Setting up Playwright browser...
+2026-02-19 14:29:24 - WhatsAppWatcher - INFO - ✓ Playwright started
+2026-02-19 14:29:25 - WhatsAppWatcher - INFO - ✓ Browser launched (headless mode)
+2026-02-19 14:29:25 - WhatsAppWatcher - INFO - ⚠ First run detected - QR code scan required
+2026-02-19 14:29:25 - WhatsAppWatcher - INFO -   Browser will open with QR code
+2026-02-19 14:29:25 - WhatsAppWatcher - INFO -   Scan with your phone to authenticate
+2026-02-19 14:29:25 - WhatsAppWatcher - INFO - ✓ Browser context and page initialized
+2026-02-19 14:29:25 - WhatsAppWatcher - INFO - Navigating to WhatsApp Web...
+2026-02-19 14:29:37 - WhatsAppWatcher - INFO - Waiting for QR code scan (first time)...
+2026-02-19 14:31:37 - WhatsAppWatcher - ERROR - Timeout waiting for WhatsApp to load
+2026-02-19 14:31:37 - WhatsAppWatcher - ERROR - Failed to navigate to WhatsApp Web
+2026-02-19 14:31:38 - WhatsAppWatcher - INFO - ✓ Browser closed
+2026-02-19 14:39:17 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:39:17 - WhatsAppWatcher - INFO - WhatsApp Watcher initialized
+2026-02-19 14:39:17 - WhatsAppWatcher - INFO - Vault root: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault
+2026-02-19 14:39:17 - WhatsAppWatcher - INFO - Session folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\whatsapp_session
+2026-02-19 14:39:17 - WhatsAppWatcher - INFO - Needs_Action folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\Needs_Action
+2026-02-19 14:39:17 - WhatsAppWatcher - INFO - Keywords to monitor: urgent, asap, invoice, payment, help, sales, quote
+2026-02-19 14:39:17 - WhatsAppWatcher - INFO - Loaded 0 previously processed messages
+2026-02-19 14:39:17 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:39:17 - WhatsAppWatcher - INFO - STARTING WHATSAPP WATCHER
+2026-02-19 14:39:17 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:39:17 - WhatsAppWatcher - INFO - Monitoring: WhatsApp Web unread chats
+2026-02-19 14:39:17 - WhatsAppWatcher - INFO - Check interval: 60 seconds
+2026-02-19 14:39:17 - WhatsAppWatcher - INFO - Keywords: urgent, asap, invoice, payment, help, sales, quote
+2026-02-19 14:39:17 - WhatsAppWatcher - INFO - Output folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\Needs_Action
+2026-02-19 14:39:17 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:39:17 - WhatsAppWatcher - INFO - Setting up Playwright browser...
+2026-02-19 14:39:17 - WhatsAppWatcher - INFO - ✓ Playwright started
+2026-02-19 14:39:17 - WhatsAppWatcher - ERROR - Failed to setup browser: name 'playwright' is not defined
+2026-02-19 14:41:13 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:41:13 - WhatsAppWatcher - INFO - WhatsApp Watcher initialized
+2026-02-19 14:41:13 - WhatsAppWatcher - INFO - Vault root: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault
+2026-02-19 14:41:13 - WhatsAppWatcher - INFO - Session folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\whatsapp_session
+2026-02-19 14:41:13 - WhatsAppWatcher - INFO - Needs_Action folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\Needs_Action
+2026-02-19 14:41:13 - WhatsAppWatcher - INFO - Keywords to monitor: urgent, asap, invoice, payment, help, sales, quote
+2026-02-19 14:41:13 - WhatsAppWatcher - INFO - Loaded 0 previously processed messages
+2026-02-19 14:41:13 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:41:13 - WhatsAppWatcher - INFO - STARTING WHATSAPP WATCHER
+2026-02-19 14:41:13 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:41:13 - WhatsAppWatcher - INFO - Monitoring: WhatsApp Web unread chats
+2026-02-19 14:41:13 - WhatsAppWatcher - INFO - Check interval: 60 seconds
+2026-02-19 14:41:13 - WhatsAppWatcher - INFO - Keywords: urgent, asap, invoice, payment, help, sales, quote
+2026-02-19 14:41:13 - WhatsAppWatcher - INFO - Output folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\Needs_Action
+2026-02-19 14:41:13 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:41:13 - WhatsAppWatcher - INFO - Setting up Playwright browser...
+2026-02-19 14:41:14 - WhatsAppWatcher - INFO - ✓ Playwright started
+2026-02-19 14:41:14 - WhatsAppWatcher - ERROR - Failed to setup browser: cannot access local variable 'context' where it is not associated with a value
+2026-02-19 14:41:50 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:41:50 - WhatsAppWatcher - INFO - WhatsApp Watcher initialized
+2026-02-19 14:41:50 - WhatsAppWatcher - INFO - Vault root: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault
+2026-02-19 14:41:50 - WhatsAppWatcher - INFO - Session folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\whatsapp_session
+2026-02-19 14:41:50 - WhatsAppWatcher - INFO - Needs_Action folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\Needs_Action
+2026-02-19 14:41:50 - WhatsAppWatcher - INFO - Keywords to monitor: urgent, asap, invoice, payment, help, sales, quote
+2026-02-19 14:41:50 - WhatsAppWatcher - INFO - Loaded 0 previously processed messages
+2026-02-19 14:41:50 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:41:50 - WhatsAppWatcher - INFO - STARTING WHATSAPP WATCHER
+2026-02-19 14:41:50 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:41:50 - WhatsAppWatcher - INFO - Monitoring: WhatsApp Web unread chats
+2026-02-19 14:41:50 - WhatsAppWatcher - INFO - Check interval: 60 seconds
+2026-02-19 14:41:50 - WhatsAppWatcher - INFO - Keywords: urgent, asap, invoice, payment, help, sales, quote
+2026-02-19 14:41:50 - WhatsAppWatcher - INFO - Output folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\Needs_Action
+2026-02-19 14:41:50 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:41:50 - WhatsAppWatcher - INFO - Setting up Playwright browser...
+2026-02-19 14:41:51 - WhatsAppWatcher - INFO - ✓ Playwright started
+2026-02-19 14:41:51 - WhatsAppWatcher - ERROR - Failed to setup browser: name 'context' is not defined
+2026-02-19 14:42:30 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:42:30 - WhatsAppWatcher - INFO - WhatsApp Watcher initialized
+2026-02-19 14:42:30 - WhatsAppWatcher - INFO - Vault root: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault
+2026-02-19 14:42:30 - WhatsAppWatcher - INFO - Session folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\whatsapp_session
+2026-02-19 14:42:30 - WhatsAppWatcher - INFO - Needs_Action folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\Needs_Action
+2026-02-19 14:42:30 - WhatsAppWatcher - INFO - Keywords to monitor: urgent, asap, invoice, payment, help, sales, quote
+2026-02-19 14:42:30 - WhatsAppWatcher - INFO - Loaded 0 previously processed messages
+2026-02-19 14:42:30 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:42:30 - WhatsAppWatcher - INFO - STARTING WHATSAPP WATCHER
+2026-02-19 14:42:30 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:42:30 - WhatsAppWatcher - INFO - Monitoring: WhatsApp Web unread chats
+2026-02-19 14:42:30 - WhatsAppWatcher - INFO - Check interval: 60 seconds
+2026-02-19 14:42:30 - WhatsAppWatcher - INFO - Keywords: urgent, asap, invoice, payment, help, sales, quote
+2026-02-19 14:42:30 - WhatsAppWatcher - INFO - Output folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\Needs_Action
+2026-02-19 14:42:30 - WhatsAppWatcher - INFO - ======================================================================
+2026-02-19 14:42:30 - WhatsAppWatcher - INFO - Setting up Playwright browser...
+2026-02-19 14:42:31 - WhatsAppWatcher - INFO - ✓ Playwright started
+2026-02-19 14:42:31 - WhatsAppWatcher - ERROR - Failed to setup browser: name 'playwright' is not defined

@@ -1,0 +1,105 @@
+2026-02-19 11:53:03 - GmailWatcher - INFO - ======================================================================
+2026-02-19 11:53:03 - GmailWatcher - INFO - Gmail Watcher initialized
+2026-02-19 11:53:03 - GmailWatcher - INFO - Vault root: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault
+2026-02-19 11:53:03 - GmailWatcher - INFO - Needs_Action folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\Needs_Action
+2026-02-19 11:53:03 - GmailWatcher - INFO - Loaded 0 previously processed email IDs
+2026-02-19 12:00:57 - GmailWatcher - INFO - ======================================================================
+2026-02-19 12:00:57 - GmailWatcher - INFO - Gmail Watcher initialized
+2026-02-19 12:00:57 - GmailWatcher - INFO - Vault root: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault
+2026-02-19 12:00:57 - GmailWatcher - INFO - Needs_Action folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\Needs_Action
+2026-02-19 12:00:57 - GmailWatcher - INFO - Loaded 0 previously processed email IDs
+2026-02-19 12:01:21 - GmailWatcher - INFO - Completed OAuth2 authorization flow
+2026-02-19 12:01:21 - GmailWatcher - INFO - Saved Gmail token for future use
+2026-02-19 12:01:21 - GmailWatcher - INFO - Successfully authenticated with Gmail API
+2026-02-19 12:02:36 - GmailWatcher - INFO - ======================================================================
+2026-02-19 12:02:36 - GmailWatcher - INFO - Gmail Watcher initialized
+2026-02-19 12:02:36 - GmailWatcher - INFO - Vault root: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault
+2026-02-19 12:02:36 - GmailWatcher - INFO - Needs_Action folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\Needs_Action
+2026-02-19 12:02:36 - GmailWatcher - INFO - Loaded 0 previously processed email IDs
+2026-02-19 12:02:36 - GmailWatcher - INFO - Loaded existing Gmail token
+2026-02-19 12:02:36 - GmailWatcher - INFO - Successfully authenticated with Gmail API
+2026-02-19 12:02:36 - GmailWatcher - INFO - ======================================================================
+2026-02-19 12:02:36 - GmailWatcher - INFO - STARTING GMAIL WATCHER
+2026-02-19 12:02:36 - GmailWatcher - INFO - ======================================================================
+2026-02-19 12:02:36 - GmailWatcher - INFO - Monitoring: unread + important emails
+2026-02-19 12:02:36 - GmailWatcher - INFO - Check interval: 120 seconds (2 minutes)
+2026-02-19 12:02:36 - GmailWatcher - INFO - Output folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\Needs_Action
+2026-02-19 12:02:36 - GmailWatcher - INFO - ======================================================================
+2026-02-19 12:02:36 - GmailWatcher - INFO - 
+[Check #1] Checking for new emails...
+2026-02-19 12:02:37 - GmailWatcher - INFO - Found 10 unread important emails
+2026-02-19 12:02:37 - GmailWatcher - INFO - ✓ Created action file: EMAIL_19c5b374833a12dd.md
+2026-02-19 12:02:37 - GmailWatcher - INFO -   From: OpenAI <noreply@tm1.openai.com>
+2026-02-19 12:02:37 - GmailWatcher - INFO -   Subject: OpenAI API - API Key Disabled
+2026-02-19 12:02:38 - GmailWatcher - INFO - ✓ Created action file: EMAIL_19c52a8276968c1d.md
+2026-02-19 12:02:38 - GmailWatcher - INFO -   From: Google Cloud <CloudPlatform-noreply@google.com>
+2026-02-19 12:02:38 - GmailWatcher - INFO -   Subject: [Product Update] Automatic enablement of new OpenTelemetry ingestion API
+2026-02-19 12:02:38 - GmailWatcher - INFO - ✓ Created action file: EMAIL_194a77a2dea66b10.md
+2026-02-19 12:02:38 - GmailWatcher - INFO -   From: Microsoft <microsoft-noreply@microsoft.com>
+2026-02-19 12:02:38 - GmailWatcher - INFO -   Subject: Your Office 365 A1 for students subscription is renewing soon
+2026-02-19 12:02:38 - GmailWatcher - INFO - ✓ Created action file: EMAIL_18f353ab4664098f.md
+2026-02-19 12:02:38 - GmailWatcher - INFO -   From: Google <no-reply@accounts.google.com>
+2026-02-19 12:02:38 - GmailWatcher - INFO -   Subject: Learn more about our updated Terms of Service
+2026-02-19 12:02:38 - GmailWatcher - INFO - ✓ Created action file: EMAIL_18ecbbe8abdd90e0.md
+2026-02-19 12:02:38 - GmailWatcher - INFO -   From: Microsoft Feedback <Feedback@experience.microsoft.com>
+2026-02-19 12:02:38 - GmailWatcher - INFO -   Subject: Reminder: Please share your feedback with Microsoft
+2026-02-19 12:02:39 - GmailWatcher - INFO - ✓ Created action file: EMAIL_18ec1c8fc7745234.md
+2026-02-19 12:02:39 - GmailWatcher - INFO -   From: Softech Store <marketing@softech.store>
+2026-02-19 12:02:39 - GmailWatcher - INFO -   Subject: Simplify and Strengthen Protection
+2026-02-19 12:02:39 - GmailWatcher - INFO - ✓ Created action file: EMAIL_184380d701b55ef2.md
+2026-02-19 12:02:39 - GmailWatcher - INFO -   From: Saria Abbasi <saria.abbasi.sef@gmail.com>
+2026-02-19 12:02:39 - GmailWatcher - INFO -   Subject: Request for password reset
+2026-02-19 12:02:39 - GmailWatcher - INFO - ✓ Created action file: EMAIL_1826889536c145f9.md
+2026-02-19 12:02:39 - GmailWatcher - INFO -   From: Zaibunnisa Pir <ZaibunnisaPir@sef.org.pk>
+2026-02-19 12:02:39 - GmailWatcher - INFO -   Subject: Re: Monitor replacement request
+2026-02-19 12:02:39 - GmailWatcher - INFO - ✓ Created action file: EMAIL_18268736c40ecf32.md
+2026-02-19 12:02:39 - GmailWatcher - INFO -   From: Syed Asad Jamal <asadjamal@sef.org.pk>
+2026-02-19 12:02:39 - GmailWatcher - INFO -   Subject: Re: Monitor replacement request
+2026-02-19 12:02:39 - GmailWatcher - INFO - ✓ Created action file: EMAIL_18263d8451d2ea17.md
+2026-02-19 12:02:39 - GmailWatcher - INFO -   From: Google <no-reply@accounts.google.com>
+2026-02-19 12:02:39 - GmailWatcher - INFO -   Subject: Security alert
+2026-02-19 12:02:39 - GmailWatcher - INFO - Waiting 120 seconds until next check...
+2026-02-19 12:04:39 - GmailWatcher - INFO - 
+[Check #2] Checking for new emails...
+2026-02-19 12:04:40 - GmailWatcher - INFO - Found 10 unread important emails
+2026-02-19 12:04:40 - GmailWatcher - INFO - Waiting 120 seconds until next check...
+2026-02-19 12:06:40 - GmailWatcher - INFO - 
+[Check #3] Checking for new emails...
+2026-02-19 12:06:40 - GmailWatcher - INFO - Found 10 unread important emails
+2026-02-19 12:06:40 - GmailWatcher - INFO - Waiting 120 seconds until next check...
+2026-02-19 12:08:40 - GmailWatcher - INFO - 
+[Check #4] Checking for new emails...
+2026-02-19 12:08:40 - GmailWatcher - INFO - Found 10 unread important emails
+2026-02-19 12:08:40 - GmailWatcher - INFO - Waiting 120 seconds until next check...
+2026-02-19 12:09:19 - GmailWatcher - INFO - 
+======================================================================
+2026-02-19 12:09:19 - GmailWatcher - INFO - Gmail Watcher stopped by user (Ctrl+C)
+2026-02-19 12:09:19 - GmailWatcher - INFO - Total checks performed: 4
+2026-02-19 12:09:19 - GmailWatcher - INFO - Total processed emails: 10
+2026-02-19 12:09:19 - GmailWatcher - INFO - ======================================================================
+2026-02-21 11:52:46 - GmailWatcher - INFO - ======================================================================
+2026-02-21 11:52:46 - GmailWatcher - INFO - Gmail Watcher initialized
+2026-02-21 11:52:46 - GmailWatcher - INFO - Vault root: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault
+2026-02-21 11:52:46 - GmailWatcher - INFO - Needs_Action folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\Needs_Action
+2026-02-21 11:52:46 - GmailWatcher - INFO - Loaded 10 previously processed email IDs
+2026-02-21 11:52:46 - GmailWatcher - INFO - Loaded existing Gmail token
+2026-02-21 11:52:48 - GmailWatcher - INFO - Refreshed Gmail token
+2026-02-21 11:52:48 - GmailWatcher - INFO - Saved Gmail token for future use
+2026-02-21 11:52:48 - GmailWatcher - INFO - Successfully authenticated with Gmail API
+2026-02-21 11:52:48 - GmailWatcher - INFO - ======================================================================
+2026-02-21 11:52:48 - GmailWatcher - INFO - STARTING GMAIL WATCHER
+2026-02-21 11:52:48 - GmailWatcher - INFO - ======================================================================
+2026-02-21 11:52:48 - GmailWatcher - INFO - Monitoring: unread + important emails
+2026-02-21 11:52:48 - GmailWatcher - INFO - Check interval: 120 seconds (2 minutes)
+2026-02-21 11:52:48 - GmailWatcher - INFO - Output folder: E:\GH-Q4\Hackathon0-FTE\AI_Employee\vault\Needs_Action
+2026-02-21 11:52:48 - GmailWatcher - INFO - ======================================================================
+2026-02-21 11:52:48 - GmailWatcher - INFO - 
+[Check #1] Checking for new emails...
+2026-02-21 11:52:49 - GmailWatcher - INFO - Found 10 unread important emails
+2026-02-21 11:52:49 - GmailWatcher - INFO - Waiting 120 seconds until next check...
+2026-02-21 11:53:07 - GmailWatcher - INFO - 
+======================================================================
+2026-02-21 11:53:07 - GmailWatcher - INFO - Gmail Watcher stopped by user (Ctrl+C)
+2026-02-21 11:53:07 - GmailWatcher - INFO - Total checks performed: 1
+2026-02-21 11:53:07 - GmailWatcher - INFO - Total processed emails: 10
+2026-02-21 11:53:07 - GmailWatcher - INFO - ======================================================================

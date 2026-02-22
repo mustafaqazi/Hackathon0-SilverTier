@@ -1,0 +1,220 @@
+{
+  "timestamp": "20260220_233330",
+  "timestamp_full": "2026-02-20T23:33:30.632377",
+  "approval_requests_created": 33,
+  "approved_items_found": 3,
+  "actions_triggered": [],
+  "summary": {
+    "pending_approval": 33,
+    "approved": 3,
+    "completed": 0,
+    "rejected": 0
+  },
+  "requests": [
+    {
+      "approval_id": "EMAIL_ai-employee_0_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.561617"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_1_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.562684"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_2_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.563831"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_0_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.565059"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_1_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.565695"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_2_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.566371"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_0_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.567880"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_1_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.569244"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_2_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.570876"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_0_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.572787"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_1_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.573517"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_2_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.574133"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_0_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.575251"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_1_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.575930"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_2_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.576919"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_0_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.578547"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_1_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.579326"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_2_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.579931"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_0_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.581162"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_1_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.581859"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_2_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.582876"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_0_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.585355"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_1_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.586423"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_2_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.587826"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_0_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.590282"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_1_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.591121"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_2_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.591710"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_0_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.593268"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_1_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.594023"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_2_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.594870"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_0_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.628216"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_1_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.628875"
+    },
+    {
+      "approval_id": "EMAIL_ai-employee_2_20260220_233330",
+      "type": "EMAIL_SEND",
+      "status": "PENDING_APPROVAL",
+      "created": "2026-02-20T23:33:30.629568"
+    }
+  ],
+  "next_steps": [
+    "1. Review pending approval requests in vault/Pending_Approval/",
+    "2. Verify details are correct",
+    "3. Create APPROVED file in vault/Approved/ to approve",
+    "4. ApprovalChecker will detect and trigger actions",
+    "5. Check vault/Completed/ for finished actions"
+  ]
+}
